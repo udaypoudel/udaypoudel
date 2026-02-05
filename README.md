@@ -17,11 +17,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/udaypoudel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=udaypoudel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/udaypoudel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
